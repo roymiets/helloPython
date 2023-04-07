@@ -1,3 +1,2 @@
-# helloPython
-we are creating python web app using restApi
-I'm starting from scrach.
+# HelloPython
+we are creating python web app using restApi & We're starting from scrach.
