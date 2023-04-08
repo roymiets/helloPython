@@ -1,0 +1,10 @@
+a=int(input("Enter a number: "))
+b=int(input("Enter another number: "))
+add=(a+b)
+subtraction=(a-b)
+mult=(a*b)
+devide=(a/b)
+moduls=(a%b)
+# Need to learn this as in why there in an error in this statement?
+# print("Sum is :"add + "sub is :"subtraction + "mult is :"mult + "devide is :"devide + "moduls is :"moduls)
+print(add, subtraction, mult, devide, moduls)
